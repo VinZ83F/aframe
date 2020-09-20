@@ -51,6 +51,7 @@
     "materials" : [
         {
             "doubleSided" : true,
+            "alphaMode":"MASK",
             "emissiveFactor" : [
                 0,
                 0,
